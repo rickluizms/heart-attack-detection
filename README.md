@@ -20,10 +20,3 @@ O arquivo `modeling_process.md` fornece uma visão detalhada do processo de mode
 ## Resultados Esperados
 O objetivo final deste projeto é desenvolver um modelo de detecção de ataques cardíacos preciso e eficaz, além de fornecer um web services para que o modelo possa se conectar com o mundo real. Os resultados, conclusões e descobertas serão documentados no arquivo de modelagem.
 
-## Como Usar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/heart-attack-detection.git`
-2. Explore a pasta `Data` para acessar os conjuntos de dados.
-3. Consulte o arquivo `modeling_process.md` na pasta `Model` para obter detalhes sobre o processo de modelagem.
-4. Analise o arquivo `data_analysis.ipynb` para insights da análise exploratória de dados.
-
-Este projeto é uma iniciativa para aplicar técnicas de aprendizado de máquina na detecção de ataques cardíacos e pode ser aprimorado com base em novas descobertas e atualizações do modelo. Sinta-se à vontade para contribuir ou fornecer feedback.

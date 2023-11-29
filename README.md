@@ -17,26 +17,11 @@ Gostaríamos de expressar nossa gratidão aos seguintes recursos que foram funda
 ## Sumário do Notebook
 O notebook `data_analysis.ipynb` está estruturado da seguinte forma:
 
-# Sumário
-
-[Introdução](#1) <a id=180></a>
-1. [Importação, Transformação e Limpeza de Dados](#2)
-    - 1.1 [Configurações Gerais](#3)
-    - 1.2 [Importar Dataframe](#4)
-    - 1.3 [Entendendo os dados](#5)
-2. [Análise Exploratória de Dados (EDA)](#6)
-    - 2.1 [Análise Univariada](#7)
-    - 2.2 [Análise Bivariada](#8)
-3. [Pré-processamento de Dados](#11)
-    - 3.1 [Conclusões da EDA](#12)
-    - 3.2 [Instalando pacotes](#13)
-    - 3.3 [Configurando Caracteristicas para o modelo](#14)
-4. [Modelagem](#15)
-    - 4.1 [Classificadores Lineares](#16)
-    - 4.2 [Modelos de Árvore](#17)
-    - 4.3 [Acurácia dos Modelos](#18)
-5. [Implantação no Machine Learning Studio](19)
-    - 5.1 [Modelagem do Pipeline](20)
-    - 5.2 [Web Services](21)
-6. [Conclusão](23)
+[Introdução]()
+1. [Importação, Transformação e Limpeza de Dados]()
+2. [Análise Exploratória de Dados (EDA)]()
+3. [Pré-processamento de Dados]()
+4. [Modelagem]()
+5. [Implantação no Machine Learning Studio]()
+6. [Conclusão]()
 
